@@ -34,7 +34,7 @@ Generate a still image for search term _don't mind if i do_ with a different tex
 `/frink don't mind if i do | snare sux`
 `/frink image don't mind if i do | snare sux`
 Generate a still image for the search term _don't mind if i do_ with no text overlay:
-`/morbo don't mind if i do |`
+`/frink don't mind if i do |`
 Generate a selection of still images for _don't mind if i do_:
 `/frink images don't mind if i do`
 Generate a GIF for _don't mind if i do_:
